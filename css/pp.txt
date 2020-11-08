@@ -1,0 +1,70 @@
+
+  <div class="review1">
+    <img class="customer-image" src="images/colton.png" alt="">
+    <h3>Colton Smith</h3>
+    <p class="card-para">Verified Buyer</p>
+    <p class="desc">"We needed the same printed design as the one we had ordered a week prior. Not only did they find the original order, but we also received it in time. Excellent!"</p>
+  </div>
+
+  <div class="review2">
+    <img class="customer-image" src="images/irene.png" alt="">
+    <h3>Irene Roberts</h3>
+    <p class="card-para">Verified Buyer</p>
+    <p class="desc">"Customer service is always excellent and very quick turn around. Completely delighted with the simplicity of the purchase and the speed of delivery." </p>
+  </div>
+
+  <div class="review3">
+    <img class="customer-image" src="images/anne.png" alt="">
+    <h3>Anne Wallace</h3>
+    <p class="card-para">Verified Buyer</p>
+    <p class="desc">"Put an order with this company and can only praise them for the very high standard. Will definitely use them again and recommend them to everyone!" </p>
+  </div>
+
+
+
+
+
+.review1{
+  margin: 100px;
+  background-color: #502050;
+  width: 18%;
+  padding: 30px;
+  position: absolute;
+  left: 50px;
+  top: 350px;
+  border-radius: 10px;
+
+}
+.card-para{
+  color: #ee68a4;
+}
+.customer-image{
+  float: left;
+  margin-right: 10px;
+}
+.desc{
+  color: white;
+  margin-top: 20px;
+}
+
+.review2{
+  margin: 100px;
+  background-color: #502050;
+  width: 18%;
+  padding: 30px;
+  position: absolute;
+  left: 520px;
+  top: 380px;
+  border-radius: 10px;
+}
+
+.review3{
+  margin: 100px;
+  background-color: #502050;
+  width: 18%;
+  padding: 30px;
+  position: absolute;
+  left: 990px;
+  top: 400px;
+  border-radius: 10px;
+}
